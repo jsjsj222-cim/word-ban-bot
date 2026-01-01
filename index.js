@@ -1,7 +1,7 @@
 import fetch from "node-fetch";
 
 const TOKEN = "BOT_TOKEN";
-const ADMIN_IDS = ["1234567890","0987654321"];
+const ADMIN_IDS = ["8252589359"];
 const API = `https://api.telegram.org/bot${TOKEN}`;
 
 let forbiddenWords = [];
