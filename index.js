@@ -1,6 +1,6 @@
 import fetch from "node-fetch";
 
-const TOKEN = "BOT_TOKEN";
+const TOKEN = "8395724242:AAEipE52V5oo8gQ6aKAQRTcAzOkbAQYrEYk";
 const ADMIN_IDS = ["1234567890","0987654321"];
 const API = `https://api.telegram.org/bot${TOKEN}`;
 
